@@ -1,0 +1,22 @@
+{
+  "name": "SFTestCode",
+  "version": "0.1.0",
+  "summary": "A short description of SFTestCode.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hongbing5/SFTestCode",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hongbing5": "hongbing5@staff.sina.com.cn"
+  },
+  "source": {
+    "git": "https://github.com/hongbing5/SFTestCode.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SFTestCode/Classes/**/*"
+}

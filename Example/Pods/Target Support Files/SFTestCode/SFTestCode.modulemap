@@ -1,0 +1,6 @@
+framework module SFTestCode {
+  umbrella header "SFTestCode-umbrella.h"
+
+  export *
+  module * { export * }
+}
